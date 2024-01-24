@@ -1,0 +1,11 @@
+
+
+.image {
+    display: flex;
+    justify-content: center;
+}
+
+.image_text {
+    text-align: center;
+    font-family: cursive; 
+}
